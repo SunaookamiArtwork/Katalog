@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Katalog Sunaookami Artwork</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="cart-modal" class="modal hidden">
+  <div class="modal-content">
+    <h2>Keranjang Belanja</h2>
+
+   
+    <ul id="cart-items"></ul>
+    <p id="cart-total"></p>
+    <div class="checkout-buttons">
+      <button id="wa-checkout">Checkout via WhatsApp<img src="img/wa.webp" height="20px"></button>
+      <button id="email-checkout">Checkout via Email<img src="img/email.png" height="20px"></button>
+      <button id="ig-checkout">Instagram<img src="img/ig.png" height="20px"></button>
+    </div>
+    <button id="close-cart">Tutup</button>
+  </div>
+</div>
+  <header class="header">
+    <div class="container header-content">
+      
+      <div class="logo">
+        <img src="img/Sunaookami-Artwork.png" alt="Logo" height="100px">
+      </div>
+
+      <div class="brand">
+        <p>"Menjual beberapa produk fan-merch."</p>
+      </div>
+
+      <div class="filters">
+        <input type="text" id="search" placeholder="Cari produk..." />
+        <select id="category">
+          <option>Semua</option>
+          <option>Standee</option>
+          <option>Sticker</option>
+          <option>Photocard</option>
+          <option>Sketch</option>
+          <option>Keychain</option>
+        </select>
+        <select id="fandom">
+          <option>Semua</option>
+          <option>Umamusume</option>
+          <option>Blue Archive</option>
+          <option>Project Sekai</option>
+          <option>Honkai: Star Rail</option>
+          <option>Genshin Impact</option>
+          <option>Wuthering Waves</option>
+        </select>
+
+      <!-- Tombol keranjang (untuk akses modal keranjang) -->
+      <button id="open-cart" class="cart-btn">
+        <img src="img/cart.png" alt="Cart">
+        <span id="cart-count">0</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- NAVBAR -->
+<nav class="navbar">
+  <ul class="nav-menu">
+    <li><a href="#product-list">Shopping</a></li>
+    <li><a href="#profile">Profile</a></li>
+  </ul>
+</nav>
+
+  <main class="container">
+    <section class="products" id="product-list"></section>
+  </main>
+
+  
+<!-- PROFILE SECTION -->
+<section id="profile" class="profile-section">
+  <p class="profile-desc">
+    Sunaookami Artwork adalah sebuah toko offline & online yang menjual berbagai produk fan-merchandise. Kami menyediakan berbagai macam produk seperti standee, sticker, photocard, sketch, dan keychain yang terinspirasi dari berbagai fandom populer.
+  </p>
+  <p class="profile-note">
+    Note: Setiap pembelian 2 stiker chromo, akan mendapatkan 1 stiker chromo bebas secara gratis. (Rp2000 dapat 3 stiker chromo)
+  </p>
+</section>
+<footer class="footer">
+    © 2024 Sunaookami Artwork. All rights reserved.
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

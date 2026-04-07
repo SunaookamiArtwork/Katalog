@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Keranjang — Sunaookami Artwork</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="header">
+    <div class="container header-content">
+      <h1>Keranjang Belanja</h1>
+      <a href="index.html" class="back-btn">Kembali ke Katalog</a>
+    </div>
+  </header>
+
+  <main class="container">
+    <h2>Barang yang Kamu Masukkan</h2>
+
+    <table class="cart-table">
+      <thead>
+        <tr>
+          <th>Produk</th>
+          <th>Harga</th>
+          <th>Qty</th>
+          <th>Total</th>
+          <th></th>
+        </tr>
+      </thead>
+
+      <tbody id="cart-items">
+        <!-- isi keranjang dari localStorage -->
+      </tbody>
+    </table>
+
+    <div class="checkout-box">
+      <h3>Total Belanja: <span id="cart-total">Rp 0</span></h3>
+
+      <div class="checkout-buttons">
+        <button onclick="checkoutWA()">Checkout via WhatsApp</button>
+        <button onclick="checkoutEmail()">Checkout via Email</button>
+        <button onclick="checkoutIG()">DM Instagram</button>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">© 2025 Sunaookami Artwork</footer>
+
+  <script src="cart.js"></script>
+</body>
+</html>

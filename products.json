@@ -1,0 +1,1612 @@
+[
+  { 
+    "name": "Standee Akrilik - Aemeath", 
+    "priceBuy": 35000, 
+    "category": "Standee", 
+    "fandom": "Wuthering Waves",
+    "img": "img/standee/standee_aemeath.webp" 
+  },
+  { 
+    "name": "Standee Akrilik - Aru (Dress)", 
+    "priceBuy": 35000, 
+    "category": "Standee",
+    "fandom": "Blue Archive",
+    "img": "img/standee/standee_arudress.webp" 
+  },
+  { 
+    "name": "Standee Akrilik - Yelan", 
+    "priceBuy": 35000, 
+    "category": "Standee",
+    "fandom": "Genshin Impact",
+    "img": "img/standee/standee_yelan.webp" 
+  },
+  {
+    "name": "Standee Akrilik - Lupa", 
+    "priceBuy": 35000, 
+    "category": "Standee", 
+    "fandom": "Wuthering Waves",
+    "img": "img/standee/standee_lupa.webp"
+  },
+  {
+    "name": "Standee Akrilik - Kafka", 
+    "priceBuy": 35000, 
+    "category": "Standee", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/standee/standee_kafka.webp"
+  },
+  { 
+    "name": "Keychain - Cyrene", 
+    "priceBuy": 10000, 
+    "category": "Keychain", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/keychain/keychain_cyrene.webp" 
+  },
+  { 
+    "name": "Keychain - Nahida", 
+    "priceBuy": 10000, 
+    "category": "Keychain", 
+    "fandom": "Genshin Impact",
+    "img": "img/keychain/keychain_nahida.png" 
+  },
+  {
+    "name": "Keychain - Firefly", 
+    "priceBuy": 10000, 
+    "category": "Keychain", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/keychain/keychain_firefly.webp"
+  },
+  {
+    "name": "Keychain - Lauma", 
+    "priceBuy": 10000, 
+    "category": "Keychain", 
+    "fandom": "Genshin Impact",
+    "img": "img/keychain/keychain_lauma.webp"
+  },
+  { 
+    "name": "Brighter Than the Sun - Dan Heng IL", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/brighter-than-the-sun.jpg" 
+  },
+  { 
+    "name": "Dance at Sunset - Yunli", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/dance-at-sunset.jpg" 
+  },
+  { 
+    "name": "Echoes of the Coffin - Luocha", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/echoes-of-the-coffin.jpg" 
+  },
+  { 
+    "name": "Incessant Rain - Silver Wolf", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/incessant-rain.jpg" 
+  },
+  { 
+    "name": "In the Night - Seele", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/in-the-night.jpg" 
+  },
+  { 
+    "name": "I Shall be My Own Sword - Jingliu", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/i-shall-be-my-own-sword.jpg" 
+  },
+  { 
+    "name": "She Already Shut Her Eyes - Fu Xuan", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/she-already-shut-her-eyes.jpg" 
+  },
+  { 
+    "name": "Sailing Towards a Second Life - Boothill", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/sailing-towards-a-second-life.jpg" 
+  },
+  { 
+    "name": "Patience is All You Need - Kafka", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/patience-is-all-you-need.jpg" 
+  },
+  { 
+    "name": "Night on the Milky Way - Himeko", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/night-on-the-milky-way.jpg" 
+  },
+  { 
+    "name": "Yet Hope is Priceless - Jade", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/yet-hope-is-priceless.jpg" 
+  },
+  { 
+    "name": "Worrisome, Blissful - Topaz and Numby", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/worrisome-blissful.jpg" 
+  },
+  { 
+    "name": "Sleep Like the Dead - Yanqing", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/sleep-like-the-dead.jpg" 
+  },
+  { 
+    "name": "Time Waits for No One - Bailu", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/time-waits-for-no-one.jpg" 
+  },
+  { 
+    "name": "Today Is Another Peaceful Day - Qingque", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/today-is-another-peaceful-day.jpg" 
+  },
+  { 
+    "name": "But the Battle Isn't Over - Bronya", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/but-the-battle-isnt-over.jpg" 
+  },
+  { 
+    "name": "Moment of Victory - Gepard", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/moment-of-victory.jpg" 
+  },
+  { 
+    "name": "We Will Meet Again - Silver Wolf", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/we-will-meet-again.jpg" 
+  },
+  { 
+    "name": "Nowhere to Run - Blade", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/nowhere-to-run.jpg" 
+  },
+  { 
+    "name": "Return to Darkness - Hanya", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/return-to-darkness.jpg" 
+  },
+  { 
+    "name": "Carve the Moon, Weave the Clouds - Tingyun", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/carve-the-moon-weave-the-clouds.jpg" 
+  },
+  { 
+    "name": "Geniuses' Repose - Ruan Mei", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/geniuses-repose.jpg" 
+  },
+  { 
+    "name": "Under the Blue Sky - Xueyi", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/under-the-blue-sky.jpg" 
+  },
+  { 
+    "name": "Dance Dance Dance - Hook", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/dance-dance-dance.jpg" 
+  },
+  { 
+    "name": "Memories of the Past - Bronya", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/memories-of-the-past.jpg" 
+  },
+  { 
+    "name": "For Tomorrow's Journey - Misha", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/for-tomorrows-journey.jpg" 
+  },
+  { 
+    "name": "Past and Future - Yukong", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/past-and-future.jpg" 
+  },
+  {
+    "name": "Post-Op Conversation - Natasha", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/post-op-conversation.jpg"
+  },
+  {
+    "name": "Good Night and Sleep Well - Pela", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/good-night-and-sleep-well.jpg"
+  },
+  {
+    "name": "Flames Afar - Firefly", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/flames-afar.jpg"
+  },
+  {
+    "name": "Perfect Timing - Luocha", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/perfect-timing.jpg"
+  },
+  {
+    "name": "River Flows in Spring - Yanqing", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/river-flows-in-spring.jpg"
+  },
+  {
+    "name": "A Secret Vow - Arlan", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/a-secret-vow.jpg"
+  },
+  {
+    "name": "Trend of the Universal Market - Topaz and Numby", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/trend-of-the-universal-market.jpg"
+  },
+  {
+    "name": "Swordplay - Sushang", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/swordplay.jpg"
+  },
+  {
+    "name": "It's Showtime - Sparkle", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/its-showtime.jpg"
+  },
+  {
+    "name": "After the Charmony Fall - Sunday", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/after-the-charmony-fall.jpg"
+  },
+  {
+    "name": "Final Victor - Aventurine", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/final-victor.jpg"
+  },
+  {
+    "name": "Only Silence Remains - Dan Heng", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/only-silence-remains.jpg"
+  },
+  {
+    "name": "Indelible Promise - Misha", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/indelible-promise.jpg"
+  },
+  {
+    "name": "Eyes of the Prey - Sampo", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/eyes-of-the-prey.jpg"
+  },
+  {
+    "name": "Hey, Over Here - Guinaifen", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/hey-over-here.jpg"
+  },
+  {
+    "name": "The Birth of the Self - Herta", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/the-birth-of-the-self.jpg"
+  },
+  {
+    "name": "What is Real? - Gallagher", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/what-is-real.jpg"
+  },
+  {
+    "name": "Fermata - Kafka", 
+    "priceBuy": 2000, 
+    "category": "Photocard",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/photocard/hsr/fermata.jpg"
+  },
+  { 
+    "name": "Fire at My Heels - Kitasan Black", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume",
+    "img": "img/photocard/umamusume/fireatmyheels.jpg" 
+  },
+  { 
+    "name": "The Will to Overtake - Satono Diamond", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume",
+    "img": "img/photocard/umamusume/thewilltoovertake.jpg" 
+  },
+  { 
+    "name": "Piece of Mind - Super Creek", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume",
+    "img": "img/photocard/umamusume/pieceofmind.jpg" 
+  },
+  { 
+    "name": "Wave of Gratitude - Fine Motion", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume",
+    "img": "img/photocard/umamusume/waveofgratitude.jpg" 
+  },
+  { 
+    "name": "The Ghost Finds Halloween Magic - Mihono Bourbon", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume",
+    "img": "img/photocard/umamusume/theghostfindshalloweenmagic.jpg" 
+  },
+  { 
+    "name": "Devilish Whispers - Still in Love", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume",
+    "img": "img/photocard/umamusume/devilishwhispers.jpg" 
+  },
+  { 
+    "name": "Briliance - Mejiro Ramonu", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume",
+    "img": "img/photocard/umamusume/briliance.jpg" 
+  },
+  { 
+    "name": "Bloodline's Stirrings - Duramente", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume",
+    "img": "img/photocard/umamusume/bloodlinesstirrings.jpg" 
+  },
+  { 
+    "name": "Run(my)way - Gold City", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume",
+    "img": "img/photocard/umamusume/runmyway.jpg" 
+  },
+  { 
+    "name": "A Dreamy Journey - Dream Journey", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume",
+    "img": "img/photocard/umamusume/adreamyjourney.jpg" 
+  },
+  { 
+    "name": "Hands Up, Crook! - Taiki Shuttle", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume",
+    "img": "img/photocard/umamusume/handsupcrook.jpg" 
+  },
+  { 
+    "name": "Great Ambitions Fly Away - El Condor Pasa", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume",
+    "img": "img/photocard/umamusume/greatambitionsflyaway.jpg" 
+  },
+  { 
+    "name": "Two Bounce Chasses - Kitasan Black", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume",
+    "img": "img/photocard/umamusume/twobouncechasses.jpg" 
+  },
+  { 
+    "name": "WIth Love to My School - Buena Vista", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/withlovetomyschool.jpg" 
+  },
+  { 
+    "name": "Balliamo? - Gentildonna", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/balliamo.jpg" 
+  },
+  { 
+    "name": "Fortuna's Applause - Tanino Gimlet", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/fortunasapplause.jpg" 
+  },
+  { 
+    "name": "Outfit as No.1 - Daiwa Scarlet", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/outfitasno1.jpg" 
+  },
+  { 
+    "name": "That Time I Became the Strongest - Gold Ship", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/thattimeibecamethestrongest.jpg" 
+  },
+  { 
+    "name": "Even the Littlest Bud - Nishino Flower", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/eventhelittlestbud.jpg" 
+  },
+  { 
+    "name": "Enchaînement - Symboli Rudolf", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/enchaînement.jpg" 
+  },
+  { 
+    "name": "Breakaway Battleship - Gold Ship", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/breakawaybattleship.jpg" 
+  },
+  { 
+    "name": "Sentimental Warning♪ - Maruzensky", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/sentimentalwarning.jpg" 
+  },
+  { "name": "Peak Sakura Season - Sakura Chiyono O", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/peaksakuraseason.jpg" 
+  },
+  {
+    "name": "Super-good Vibes, Cherry Blossom Heart - Sakura Chiyono O", 
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/supergoodvibescherryblossomheart.jpg"
+  },
+  {
+    "name": "Dream Big! - Tokai Teio", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/dreambig.jpg"
+  },
+  {
+    "name": "Champion's Passion - El Condor Pasa",
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/championspassion.jpg"
+  },
+  {
+    "name": "Beyond This Shining Moment - Silence Suzuka", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/beyondthisshiningmoment.jpg"
+  },
+  {
+    "name": "The Brightest Star In Japan! - Special Week", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/thebrighteststarinjapan.jpg"
+  },
+  {
+    "name": "Urara's Day Off! - Haru Urara", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/urarasdayoff.jpg"
+  },
+  {
+    "name": "Fairest Fleur - Grass Wonder",
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/fairestfleur.jpg"
+  },
+  {
+    "name": "My Solo Spun in Spiraling Runs - Manhattan Cafe", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/mysolospuninspiralingruns.jpg"
+  },
+  {
+    "name": "My Solo Drawn to Raindrop Drums - Manhattan Cafe", 
+    "priceBuy": 2500, 
+    "category": "Photocard", 
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/mysolodrawntoraindropdrums.jpg"
+  },
+  {
+    "name": "5:00 a.m —Right on Schedule - Eishin Flash",
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/5amrightonschedule.jpg"
+  },
+  {
+    "name": "Danke schön - Eishin Flash",
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/dankeschon.jpg"
+  },
+  {
+    "name": "Foolproof Plan - Seiun Sky",
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/foolproofplan.jpg"
+  },
+  {
+    "name": "Fugue of Fortune - Mihono Bourbon",
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/fugueoffortune.jpg"
+  },
+  {
+    "name": "Searching for Unseen Sights - Silence Suzuka",
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/searchingforunseensights.jpg"
+  },
+  {
+    "name": "Get Lots of Hugs for Me - Oguri Cap",
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/getlotsofhugsforme.jpg"
+  },
+
+  {
+    "name": "Your Team Ace - Mejiro McQueen",
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/yourteamace.jpg"
+  },
+  {
+    "name": "Split the Sky, White Lightning! - Tamamo Cross",
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/splittheskywhitelightning.jpg"
+  },
+  {
+    "name": "Let the Fire of Prayer Burn to the Heavens - Yaeno Muteki",
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/letthefireofprayerburntotheheavens.jpg"
+  },
+  {
+    "name": "Fiery Discipline - Yaeno Muteki",
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/fierydiscipline.jpg"
+  },
+  {
+    "name": "Only, I Reign Over You - Orfevre",
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/onlyireignoveryou.jpg"
+  },
+  {
+    "name": "The One Who Rules Over Kings and Conquers - T.M. Opera O",
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/theonewhorulesoverkingsandconquers.jpg"
+  },
+  {
+    "name": "Absolute Emperor - Symboli Rudolf",
+    "priceBuy": 2500,
+    "category": "Photocard",
+    "fandom": "Umamusume", 
+    "img": "img/photocard/umamusume/absoluteemperor.jpg"
+  },
+  {
+    "name": "Happy Anniversary 2025 - Hatsune Miku", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Anniversary_2025_Miku.webp"
+  },
+  {
+    "name": "Happy Anniversary 2024 - Kagamine Rin", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Anniversary_2024_Rin.webp"
+  },
+  {
+    "name": "Happy Anniversary 2024 - Kagamine Len", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Anniversary_2024_Len.webp"
+  },
+  {
+    "name": "Happy Anniversary 2025 - Megurine Luka", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Anniversary_2025_Luka.webp"
+  },
+  {
+    "name": "Happy Anniversary 2024 - MEIKO", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Anniversary_2024_MEIKO.webp"
+  },
+  {
+    "name": "Happy Anniversary 2025 - KAITO", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Anniversary_2025_KAITO.webp"
+  },
+  {
+    "name": "Happy Birthday 2025 - Tenma Saki", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2025_Saki.webp"
+  },
+  {
+    "name": "Happy Birthday 2024 - Mochizuki Honami", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2024_Honami.webp"
+  },
+  {
+    "name": "Happy Birthday 2025 - Hinomori Shiho", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2025_Shiho.webp"
+  },
+  {
+    "name": "Happy Birthday 2025 - Hanasato Minori", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2025_Minori.webp"
+  },
+  {
+    "name": "Happy Birthday 2024 - Kiritani Haruka", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2024_Haruka.webp"
+  },
+  {
+    "name": "Happy Birthday 2025 - Momoi Airi", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2025_Airi.webp"
+  },
+  {
+    "name": "Happy Birthday 2024 - Hinomori Shizuku", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2024_Shizuku.webp"
+  },
+  {
+    "name": "Happy Birthday 2025 - Azusawa Kohane", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2025_Kohane.webp"
+  },
+  {
+    "name": "Happy Birthday 2025 - Shiraishi An", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2025_An.webp"
+  },
+  {
+    "name": "Happy Birthday 2024 - Shinonome Akito", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2024_Akito.webp"
+  },
+  {
+    "name": "Happy Birthday 2025 - Aoyagi Toya", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2025_Toya.webp"
+  },
+  {
+    "name": "Happy Birthday 2025 - Tenma Tsukasa", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2025_Tsukasa.webp"
+  },
+  {
+    "name": "Happy Birthday 2025 - Kusanagi Nene", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2025_Nene.webp"
+  },
+  {
+    "name": "Happy Birthday 2025 - Kamishiro Rui", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2025_Rui.webp"
+  },
+  {
+    "name": "Happy Birthday 2025 - Yoisaki Kanade", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2025_Kanade.webp"
+  },
+  {
+    "name": "Happy Birthday 2025 - Shinonome Ena", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2025_Ena.webp"
+  },
+  {
+    "name": "Happy Birthday 2025 - Akiyama Mizuki", 
+    "priceBuy": 2500, 
+    "category": "Photocard",
+    "fandom": "Project Sekai", 
+    "img": "img/photocard/proseka/Happy_Birthday_2025_Mizuki.webp"
+  },
+  {
+    "name": "Sketch A4 - Castorice", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/sketch/sketch_casto.jpg"
+  },
+  {
+    "name": "Sketch A4 - Firefly", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/sketch/sketch_firefly.jpg"
+  },
+  {
+    "name": "Sketch A4 - Aventurine", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/sketch/sketch_aventurine.jpg"
+  },
+  {
+    "name": "Sketch A4 - Dr. Ratio", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/sketch/sketch_ratio.jpg"
+  },
+  {
+    "name": "Sketch A4 - Jade", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/sketch/sketch_jade.jpg"
+  },
+  {
+    "name": "Sketch A4 - Blade", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/sketch/sketch_blade.jpg"
+  },
+  { 
+    "name": "Sketch A4 - Jiaoqiu", 
+    "priceBuy": 30000, 
+    "category": "Sketch", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sketch/sketch_jiaoqiu.jpg" 
+  },
+  { 
+    "name": "Sketch A4 - Robin", 
+    "priceBuy": 30000, 
+    "category": "Sketch", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sketch/sketch_robin.jpg" 
+  },
+  { 
+    "name": "Sketch A4 - The Herta", 
+    "priceBuy": 30000, 
+    "category": "Sketch", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sketch/sketch_therta.jpg" 
+  },
+  { 
+    "name": "Sketch A4 - Feixiao", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sketch/sketch_feixiao.jpg" 
+  },
+  { 
+    "name": "Sketch A4 - Kafka", 
+    "priceBuy": 30000, 
+    "category": "Sketch", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sketch/sketch_kafka.jpg" 
+  },
+  {
+    "name": "Sketch A4 - Black Swan", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/sketch/sketch_bs.jpg"
+  },
+  { 
+    "name": "Sketch A4 - Ruan Mei", 
+    "priceBuy": 30000, 
+    "category": "Sketch", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sketch/sketch_rm.jpg"
+  },
+  {
+    "name": "Sketch A4 - Fugue", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/sketch/sketch_fugue.jpg"
+  },
+  {
+    "name": "Sketch A4 - Jingliu", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/sketch/sketch_jingliu.jpg"
+  },
+  {
+    "name": "Sketch A4 - Cipher", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/sketch/sketch_cipher.jpg"
+  },
+  {
+    "name": "Sketch A4 - Saber", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/sketch/sketch_saber.jpg"
+  },
+  {
+    "name": "Sketch A4 - Phainon", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/sketch/sketch_phainon.jpg"
+  },
+  {
+    "name": "Sketch A4 - Cyrene", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/sketch/sketch_cyrene.jpg"
+  },
+  {
+    "name": "Sketch A4 - Acheron", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/sketch/sketch_acheron.jpg"
+  },
+  {
+    "name": "Sketch A4 - The Dahlia", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Honkai: Star Rail", 
+    "img": "img/sketch/sketch_dahlia.jpg"
+  },
+  {
+    "name": "Sketch A4 - Eishin Flash", 
+    "priceBuy": 30000, 
+    "category": "Sketch",
+    "fandom": "Umamusume", 
+    "img": "img/sketch/sketch_eishin_flash.jpg"
+  },
+  { 
+    "name": "Stiker Acheron 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker",
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Acheron_01.webp" 
+  },
+  { 
+    "name": "Stiker Acheron 2 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Acheron_02.webp" 
+  },
+  {
+    "name": "Stiker Acheron 3 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Acheron_03.webp"
+  },
+  {
+    "name": "Stiker Acheron 4 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Acheron_04.webp"
+  },
+  {
+    "name": "Stiker Aventurine 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Aventurine_01.webp"
+  },
+  {
+    "name": "Stiker Aventurine 3 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Aventurine_03.webp"
+  },
+  {
+    "name": "Stiker Blade 1 (Chromo)",
+    "priceBuy": 1000,
+    "category": "Sticker",
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Blade_01.webp"
+  },
+  {
+    "name": "Stiker Blade 2 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Blade_02.webp"
+  },
+  {
+    "name": "Stiker Blade 5 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Blade_05.webp"
+  },
+  {
+    "name": "Stiker Boothill 2 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Boothill_02.webp"
+  },
+  {
+    "name": "Stiker Boothill 3 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Boothill_03.webp"
+  },
+  {
+    "name": "Stiker Boothill 4 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Boothill_04.webp"
+  },
+  {
+    "name": "Stiker Boothill 5 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Boothill_05.webp"
+  },
+  {
+    "name": "Stiker Dan Heng 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Dan_Heng_01.webp"
+  },
+  {
+    "name": "Stiker Dan Heng 3 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Dan_Heng_03.webp"
+  },
+  {
+    "name": "Stiker Dan Heng 5 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Dan_Heng_05.webp"
+  },
+  {
+    "name": "Stiker Dan Heng IL 2 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Dan_Heng_IL_02.webp"
+  },
+  {
+    "name": "Stiker Dan Heng IL 4 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Dan_Heng_IL_04.webp"
+  },
+  {
+    "name": "Stiker Dr. Ratio 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Dr._Ratio_01.webp"
+  },
+  {
+    "name": "Stiker Dr. Ratio 2 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Dr._Ratio_02.webp"
+  },
+  {
+    "name": "Stiker Dr. Ratio 4 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Dr._Ratio_04.webp"
+  },
+  {
+    "name": "Stiker Gallagher 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Gallagher_01.webp"
+  },
+  {
+    "name": "Stiker Gallagher 4 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Gallagher_04.webp"
+  },
+  {
+    "name": "Stiker Hanya 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Hanya_01.webp"
+  },
+  {
+    "name": "Stiker Hanya 2 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Hanya_02.webp"
+  },
+  {
+    "name": "Stiker Hanya 3 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Hanya_03.webp"
+  },
+  {
+    "name": "Stiker Jade 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Jade_01.webp"
+  },
+  {
+    "name": "Stiker Jade 3 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Jade_03.webp"
+  },
+  {
+    "name": "Stiker Jade 4 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Jade_04.webp"
+  },
+  {
+    "name": "Stiker Jiaoqiu 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Jiaoqiu_01.webp"
+  },
+  {
+    "name": "Stiker Jiaoqiu 2 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Jiaoqiu_02.webp"
+  },
+  {
+    "name": "Stiker Jiaoqiu 4 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Jiaoqiu_04.webp"
+  },
+  {
+    "name": "Stiker Jingliu 2 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Jingliu_02.webp"
+  },
+  {
+    "name": "Stiker Jingliu 4 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Jingliu_04.webp"
+  },
+  {
+    "name": "Stiker Lingsha 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Lingsha_01.webp"
+  },
+  {
+    "name": "Stiker Lingsha 3 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Lingsha_03.webp"
+  },
+  {
+    "name": "Stiker Lingsha 4 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Lingsha_04.webp"
+  },
+  {
+    "name": "Stiker Luocha 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Luocha_01.webp"
+  },
+  {
+    "name": "Stiker Luocha 2 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Luocha_02.webp"
+  },
+  {
+    "name": "Stiker Lynx 2 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Lynx_02.webp"
+  },
+  {
+    "name": "Stiker Lynx 3 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Lynx_03.webp"
+  },
+  {
+    "name": "Stiker March 7th 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/March_7th_01.webp"
+  },
+  {
+    "name": "Stiker March 7th 8 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/March_7th_08.webp"
+  },
+  {
+    "name": "Stiker March 7th 19 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/March_7th_19.webp"
+  },
+  {
+    "name": "Stiker Moze 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Moze_01.webp"
+  },
+  {
+    "name": "Stiker Moze 3 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Moze_03.webp"
+  },
+  {
+    "name": "Stiker Pela 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Pela_01.webp"
+  },
+  {
+    "name": "Stiker Rappa 2 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Rappa_02.webp"
+  },
+  {
+    "name": "Stiker Rappa 3 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Rappa_03.webp"
+  },
+  {
+    "name": "Stiker Robin 3 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Robin_03.webp"
+  },
+  {
+    "name": "Stiker Robin 4 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Robin_04.webp"
+  },
+  {
+    "name": "Stiker Ruan Mei 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Ruan_Mei_01.webp"
+  },
+  {
+    "name": "Stiker Ruan Mei 2 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Ruan_Mei_02.webp"
+  },
+  {
+    "name": "Stiker Ruan Mei 4 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Ruan_Mei_04.webp"
+  },
+  {
+    "name": "Stiker Silver Wolf 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Silver_Wolf_01.webp"
+  },
+  {
+    "name": "Stiker Silver Wolf 3 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Silver_Wolf_03.webp"
+  },
+  {
+    "name": "Stiker Sparkle 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Sparkle_01.webp"
+  },
+  {
+    "name": "Stiker Sparkle 6 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Sparkle_06.webp"
+  },
+  {
+    "name": "Stiker Topaz and Numby 2 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Topaz_and_Numby_02.webp"
+  },
+  {
+    "name": "Stiker Topaz and Numby 5 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Topaz_and_Numby_05.webp"
+  },
+  {
+    "name": "Stiker Xueyi 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Xueyi_01.webp"
+  },
+  {
+    "name": "Stiker Xueyi 2 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Xueyi_02.webp"
+  },
+  {
+    "name": "Stiker Xueyi 3 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Xueyi_03.webp"
+  },
+  {
+    "name": "Stiker Yukong 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Yukong_01.webp"
+  },
+  {
+    "name": "Stiker Yukong 3 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Yukong_03.webp"
+  },
+  {
+    "name": "Stiker Yunli 1 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Yunli_01.webp"
+  },
+  {
+    "name": "Stiker Yunli 2 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Yunli_02.webp"
+  },
+  {
+    "name": "Stiker Yunli 4 (Chromo)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Honkai: Star Rail",
+    "img": "img/sticker/hsr/Yunli_04.webp"
+  },
+  {
+    "name": "Stiker Citlali 2 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Citlali_2.webp"
+  },
+  {
+    "name": "Stiker Cyno 1 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Cyno_1.webp"
+  },
+  {
+    "name": "Stiker Faruzan 4 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Faruzan_4.webp"
+  },
+  {
+    "name": "Stiker Kachina 1 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Kachina_1.webp"
+  },
+  {
+    "name": "Stiker Kamisato Ayaka 1 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Kamisato_Ayaka_1.webp"
+  },
+  {
+    "name": "Stiker Kaveh 5 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Kaveh_5.webp"
+  },
+  {
+    "name": "Stiker Kinich 2 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Kinich_2.webp"
+  },
+  {
+    "name": "Stiker Kinich 3 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Kinich_3.webp"
+  },
+  {
+    "name": "Stiker Kirara 2 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Kirara_2.webp"
+  },
+  {
+    "name": "Stiker Lynette 3 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Lynette_3.webp"
+  },
+  {
+    "name": "Stiker Lyney 1 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Lyney_1.png"
+  },
+  {
+    "name": "Stiker Mavuika 1 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Mavuika_1.webp"
+  },
+  {
+    "name": "Stiker Mualani 1 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Mualani_1.webp"
+  },
+  {
+    "name": "Stiker Mualani 3 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Mualani_3.webp"
+  },
+  {
+    "name": "Stiker Nahida 2 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Nahida_2.webp"
+  },
+  {
+    "name": "Stiker Venti 2 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Venti_2.webp"
+  },
+  {
+    "name": "Stiker Xiao 2 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Xiao_2.webp"
+  },
+  {
+    "name": "Stiker Yae Miko 4 (Vinyl)", 
+    "priceBuy": 1000, 
+    "category": "Sticker", 
+    "fandom": "Genshin Impact",
+    "img": "img/sticker/genshin/Yae_Miko_4.webp"
+  }
+]

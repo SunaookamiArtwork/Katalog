@@ -13,13 +13,6 @@
     "fandom": "Blue Archive",
     "img": "img/standee/standee_arudress.webp" 
   },
-  { 
-    "name": "Standee Akrilik - Yelan", 
-    "priceBuy": 35000, 
-    "category": "Standee",
-    "fandom": "Genshin Impact",
-    "img": "img/standee/standee_yelan.webp" 
-  },
   {
     "name": "Standee Akrilik - Lupa", 
     "priceBuy": 35000, 
@@ -54,13 +47,6 @@
     "category": "Keychain", 
     "fandom": "Honkai: Star Rail",
     "img": "img/keychain/keychain_firefly.webp"
-  },
-  {
-    "name": "Keychain - Lauma", 
-    "priceBuy": 10000, 
-    "category": "Keychain", 
-    "fandom": "Genshin Impact",
-    "img": "img/keychain/keychain_lauma.webp"
   },
   { 
     "name": "Brighter Than the Sun - Dan Heng IL", 
